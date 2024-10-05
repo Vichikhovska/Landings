@@ -1,0 +1,30 @@
+:root {
+  // base colors
+  --base_color-10:rgba(255, 255, 255, 1);
+  --base_color-1: rgba(0, 0, 0, 1);
+
+  //grey colors
+  --grey-color-9: rgba(0, 20, 20, 1);
+  --grey-color-8: rgba(53, 83, 98, 0.2);
+  --grey-color-7: rgba(53, 83, 98, 0.8);
+  --grey-color-6: rgba(53, 83, 98, 0.3);
+  --grey-color-5: rgba(255, 255, 255, 0.6);
+  --grey-color-4: rgba(125, 151, 152, 1);
+  --grey-color-3: rgba(255, 255, 255, 0.3);
+  --grey-color-2: rgba(244, 245, 245, 1);
+  --grey-color-1: rgba(247, 248, 248, 1);
+  
+  // green colors
+  --green-color-10: rgba(0, 31, 31, 1);
+  --green-color-9: rgba(0, 51, 49, 1);
+  --green-color-8: rgba(1, 76, 72, 1);
+  --green-color-7: rgba(53, 83, 98, 0.8);
+  --green-color-6: rgba(0, 65, 62, 1);
+  --green-color-5: rgba(0, 102, 95, 1);
+
+  // breakpoints width
+  // --destop: "1440px";
+  // --tablet: "768px";
+  // --mobile:"450px";
+  // --mobile:"320px";
+}
